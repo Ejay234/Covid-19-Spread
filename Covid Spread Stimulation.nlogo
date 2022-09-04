@@ -54,6 +54,8 @@ to Move
   lt random 50
   fd 1
 end
+
+
 @#$#@#$#@
 GRAPHICS-WINDOW
 210
