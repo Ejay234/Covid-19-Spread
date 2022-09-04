@@ -1,9 +1,9 @@
 # Covid-19-Spread
-A stimulation created by the programming language, Netlogo. 
+A simulation created by the programming language, Netlogo. 
 
 # WHAT IS IT?
 
-This model is a stimulation of covid-19 spread.
+This model is a simulation of covid-19 spread.
 
 # HOW IT WORKS
 
@@ -15,4 +15,4 @@ Before starting the model, press "Setup". This allows the model to place the var
 
 # THINGS TO NOTICE
 
-The colors are key aspects for this stimulation. The cyan people are people who wear mask, green people are those who aren't wearing mask, and red people are those who are infected. At the left side of the stimualtion there are three monitors to keep an eye on. These monitors count how many people wear mask, who aren't wearing mask, and the infected. The last thing to keep in mind are the ticks above the stimualtion. Ticks represents the amount of steps the model has taken.
+The colors are key aspects for this simulation. The cyan people are people who wear mask, green people are those who aren't wearing mask, and red people are those who are infected. At the left side of the simualtion there are three monitors to keep an eye on. These monitors count how many people wear mask, who aren't wearing mask, and the infected. The last thing to keep in mind are the ticks above the simualtion. Ticks represents the amount of steps the model has taken.
